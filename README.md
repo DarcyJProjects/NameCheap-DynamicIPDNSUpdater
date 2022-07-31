@@ -13,7 +13,7 @@ The API used to get the machines current IP:
 ## Sections
 * [Installation](#installation)
 * - [Download](#download)
-* [Namecheap](#namcheap)
+* [Namecheap](#namecheap)
 * - [Namecheap API](#namecheap-api)
 * [Configuration](#configuration)
 * - [Script Configuration](#script-configuration)
