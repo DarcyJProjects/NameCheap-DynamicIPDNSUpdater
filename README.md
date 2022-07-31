@@ -2,7 +2,7 @@
 
 This tool will automatically update the DNS records for the specified hosts with the latest IP address of the host machine when the IP address changes (when the host machine has a dynamic IP rather than static).<br>
 
-You will need to use separate scheduling software to automate the script (e.g. cron is what I use (on linux))
+You will need to use separate scheduling software to automate the script (e.g. cron is what I use (on linux)).<br>
 The script is written in Python, so you'll have to have that installed: [Download Python](https://www.python.org/downloads/)
 
 Note: The Dynamic DNS feature is available only for domains pointed to Namcheaps BasicDNS, PremiumDNS or FreeDNS.
