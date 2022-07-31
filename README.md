@@ -23,7 +23,7 @@ The API used to get the machines current IP:
 1. Download the files from the [github repository](https://github.com/DarcyJProjects/NameCheap-DynamicIPDNSUpdater/archive/refs/heads/main.zip)
 2. Extract the zipped folder that was downloaded and move the "script.py", "last.ip" & "run.log" files to a directory of your choice.
 3. Ensure the script.py file has permissions to read and write to the "last.ip" & "run.log" files.
-4. Move onto getting your [Namecheap API key](#namecheap--api)
+4. Move onto getting your [Namecheap API key](#namecheap-api)
 
 ## Namecheap
 #### **Namecheap API**
