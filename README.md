@@ -33,7 +33,7 @@ The API used to get the machines current IP:
 4. Click on the Advanced DNS tab and scroll down to Dynamic DNS.
 5. Change the status to ON/Enabled.
 6. Copy the Dynamic DNS Password and note it down.
-7. Move onto [Script Configuration](#script--configuration)
+7. Move onto [Script Configuration](#script-configuration)
 
 ## Configuration
 #### **Script Configuration**
